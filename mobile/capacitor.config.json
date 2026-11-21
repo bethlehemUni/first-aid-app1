@@ -1,0 +1,26 @@
+{
+  "appId": "com.scanlearnact.firstaid",
+  "appName": "Scan, Learn & Act – First Aid",
+  "webDir": "www",
+  "backgroundColor": "#ffffff",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffff",
+      "showSpinner": false,
+      "androidScaleType": "CENTER_INSIDE"
+    },
+    "SystemBars": {
+      "insetsHandling": "native",
+      "style": "LIGHT"
+    }
+  },
+  "ios": {
+    "contentInset": "automatic",
+    "scheme": "App"
+  }
+}
