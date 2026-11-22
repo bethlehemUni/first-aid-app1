@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Scan, Learn &amp; Act – First Aid</string>
-    <string name="title_activity_main">Scan, Learn &amp; Act – First Aid</string>
-    <string name="package_name">com.scanlearnact.firstaid</string>
-    <string name="custom_url_scheme">com.scanlearnact.firstaid</string>
-</resources>
